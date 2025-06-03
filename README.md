@@ -12,7 +12,7 @@ The project aims to:
 - Apply these models to smartspace dataset for classification, regression tasks.
 - Evaluate model performance metrics.
 
-## Methods and Models
+## Models Compared
 
 - **Linear Regression** and **Logistic Regression** 
 - **Genral Additive Model (GAMs)**
