@@ -1,0 +1,27 @@
+# Data files
+*.mp4
+*.pptx
+*.jpg
+deliverables/Figure_Regression/
+deliverables/Figures_Classification/
+data
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+.env
+venv/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+
+# IDE
+.idea/
+.vscode/
